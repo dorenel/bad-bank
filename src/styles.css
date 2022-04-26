@@ -1,0 +1,44 @@
+body {
+    background-color:rgb(202, 229, 243);
+}
+
+.custom-navbar {
+    background-color: rgb(65, 63, 63);
+}
+
+nav.navbar a:hover {
+    color: white !important;
+}
+
+nav.navbar a:focus {
+    color: rgb(73, 165, 218) !important;
+}
+
+.custom-container {
+    padding-top: 3%;
+}
+
+.custom-card {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.custom-header {
+    background-color:rgb(73, 165, 218);
+    color: rgb(59, 59, 59);
+}
+
+.custom-description {
+    text-align: center;
+}
+
+.bank-image {
+    width: 40%;
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
